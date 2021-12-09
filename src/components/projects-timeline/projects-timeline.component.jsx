@@ -349,7 +349,7 @@ const TimeLine = () => {
               <div>
               
                 <UrlButton
-                  href="https://canonigo.vercel.app"
+                  href="https://portfolio-joana-react.herokuapp.com"
                   target="_blank"
                 >VIEW PAGE                      
                 </UrlButton>
