@@ -1,0 +1,36 @@
+0 verbose cli [
+0 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+0 verbose cli   'C:\\Users\\D E L L - P C\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js',
+0 verbose cli   'run',
+0 verbose cli   'dev'
+0 verbose cli ]
+1 info using npm@7.6.3
+2 info using node@v14.15.1
+3 timing config:load:defaults Completed in 3ms
+4 timing config:load:file:C:\Users\D E L L - P C\AppData\Roaming\npm\node_modules\npm\npmrc Completed in 4ms
+5 timing config:load:builtin Completed in 4ms
+6 timing config:load:cli Completed in 1ms
+7 timing config:load:env Completed in 1ms
+8 timing config:load:file:C:\Users\D E L L - P C\Batch68\s27-32\mini_capstone_portfolio\.npmrc Completed in 0ms
+9 timing config:load:project Completed in 1ms
+10 timing config:load:file:C:\Users\D E L L - P C\.npmrc Completed in 1ms
+11 timing config:load:user Completed in 1ms
+12 timing config:load:file:C:\Users\D E L L - P C\AppData\Roaming\npm\etc\npmrc Completed in 1ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:cafile Completed in 0ms
+15 timing config:load:validate Completed in 2ms
+16 timing config:load:setUserAgent Completed in 1ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 16ms
+19 verbose npm-session 505951ebaeb6f8c3
+20 timing npm:load Completed in 29ms
+21 timing command:run Completed in 2ms
+22 verbose stack Error: missing script: dev
+22 verbose stack     at RunScript.run (C:\Users\D E L L - P C\AppData\Roaming\npm\node_modules\npm\lib\run-script.js:72:13)
+23 verbose cwd C:\Users\D E L L - P C\Batch68\s27-32\mini_capstone_portfolio
+24 verbose Windows_NT 10.0.18363
+25 verbose argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\D E L L - P C\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js" "run" "dev"
+26 verbose node v14.15.1
+27 verbose npm  v7.6.3
+28 error missing script: dev
+29 verbose exit 1

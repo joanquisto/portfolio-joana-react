@@ -1,0 +1,49 @@
+.about {
+   background-color: transparent;
+  font-size: 1em;
+}
+
+.profile {
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  max-width: 20em;
+   max-height: 24em;
+
+}
+
+.my-details {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  background-color: #ebff77;
+  
+}
+.font-details-b {
+   font-size: 3em;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+
+@media all and (min-width: 1900px) {
+
+.about {
+   background-color: transparent;
+  font-size: 2em;
+}
+
+.profile {
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  max-width: 30em;
+   max-height: 35em;
+
+}
+
+.my-details {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  background-color: #ebff77;
+  
+}
+.font-details-b {
+   font-size: 4em;
+  font-weight: 500;
+  color: #ffffff;
+}
+}

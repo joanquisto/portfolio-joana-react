@@ -1,0 +1,52 @@
+
+.focus {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  transition: transform 0.3s;
+}
+
+.focus:hover {
+  transform: scale(1.05);
+}
+
+.card-title {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.image-style {
+  width: 5em;
+  text-align: center;
+}
+
+.font-details {
+  font-size: 3em;
+  font-weight: 500;
+  color: #231d5af8;
+}
+
+.font-details-b {
+  font-size: 3em;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.p-3 {
+  margin-left: 100px;
+}
+
+@media all and (max-width: 500px) {
+.card-title {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.image-style {
+  width: 2.5em;
+  text-align: center;
+}
+.font-details-b {
+  font-size: 1.5em;
+  font-weight: 500;
+  color: #ffffff;
+}
+}

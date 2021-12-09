@@ -1,0 +1,33 @@
+.custom-img {
+ 	position: relative;
+ 	border-radius: 25px;
+	margin-top:100px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+
+.images {
+	position: relative;
+	padding-bottom: 0px;
+	height: 700px;
+	display: flex;
+	justify-content: center;
+	border-radius: 25px;
+	
+	}
+@media all and (max-width: 700px) {
+.images {
+	position: top;
+	height: 500px;
+	padding:20px;
+	margin-bottom: 50px;
+	display: flex;
+	justify-content: center;
+	}
+	.custom-img {
+ 	position: top;
+ 	border-radius: 25px;
+	margin-bottom: 0px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+}
+
