@@ -45,9 +45,9 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="https://gitlab.com/tuitt/students/batch68/joana-canonigo" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/joanquisto" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-dark">
-                        Gitlab
+                        Github
                       </Button>
                     </a>
                   </div>
