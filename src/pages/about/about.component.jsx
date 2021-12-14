@@ -52,6 +52,13 @@ const About = () => {
                     </a>
                   </div>
                   <div>
+                    <a href="https://gitlab.com/joanaq.canonigo" target="_blank" rel="noopener noreferrer">
+                      <Button className="m-2" variant="outline-dark">
+                        Gitlab
+                      </Button>
+                    </a>
+                  </div>
+                  <div>
                     <a href="https://www.linkedin.com/in/joana-canonigo/" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-info">
                         LinkedIn
