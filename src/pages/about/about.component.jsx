@@ -30,13 +30,13 @@ const About = () => {
                 <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
                 <br /> <br />
                 <Col className="d-flex justify-content-center flex-wrap">
-                  <div>
+                  {/*<div>
                     <a href="#contact">
                       <Button className="m-2" variant="outline-danger">
                         Let's talk
                       </Button>
                     </a>
-                  </div>
+                  </div>*/}
                    <div>
                     <a href="https://docs.google.com/document/d/1mD5x_0Ga3vAgGvQUWWIff4F5n9pxYtGQcNlrqZaj80M/edit?usp=sharing" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
@@ -53,7 +53,7 @@ const About = () => {
                   </div>
                   <div>
                     <a href="https://gitlab.com/joanaq.canonigo" target="_blank" rel="noopener noreferrer">
-                      <Button className="m-2" variant="outline-danger">
+                      <Button className="m-2" variant="outline-warning">
                         Gitlab
                       </Button>
                     </a>
