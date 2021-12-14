@@ -53,7 +53,7 @@ const About = () => {
                   </div>
                   <div>
                     <a href="https://gitlab.com/joanaq.canonigo" target="_blank" rel="noopener noreferrer">
-                      <Button className="m-2" variant="outline-dark">
+                      <Button className="m-2" variant="outline-danger">
                         Gitlab
                       </Button>
                     </a>
